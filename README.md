@@ -16,7 +16,6 @@ Atualmente busco minha primeira oportunidade como estagiário em desenvolvimento
 ## 📂 Projetos Apresentados
 
 - Calculadora em Python (Tkinter)
-- Projeto de Redes com Cisco Packet Tracer
 - Análise de Usabilidade do Gov.br
   
 ## 📞 Contato
