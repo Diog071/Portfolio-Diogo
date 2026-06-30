@@ -12,7 +12,8 @@ Atualmente busco minha primeira oportunidade como estagiário em desenvolvimento
 
 - HTML5
 - CSS3
-
+- PYTHON
+  
 ## 📂 Projetos Apresentados
 
 - Calculadora em Python (Tkinter)
