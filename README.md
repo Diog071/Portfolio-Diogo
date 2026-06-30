@@ -18,19 +18,7 @@ Atualmente busco minha primeira oportunidade como estagiário em desenvolvimento
 - Calculadora em Python (Tkinter)
 - Projeto de Redes com Cisco Packet Tracer
 - Análise de Usabilidade do Gov.br
-
-## 📸 Demonstração
-
-Adicione aqui uma captura de tela do portfólio.
-
-```md
-![Portfólio](screenshot.png)
-```
-
-## 🌐 Acesse o Portfólio
-
-Em breve disponível pelo GitHub Pages.
-
+  
 ## 📞 Contato
 
 - E-mail: franciscodiogo.0007@gmail.com
